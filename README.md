@@ -1,4 +1,4 @@
-Rain Liu is a Rustacean with expertise in Voice/Video over IP (V²oIP) / Real-Time Communications (RTC).
+Rusty Rain is a Rustacean with expertise in Voice/Video over IP (V²oIP) / Real-Time Communications (RTC).
 
 "We choose to use Rust, not because it is easy, but because it is hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too."
 
